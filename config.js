@@ -9,7 +9,9 @@ var config = {
     ],
     imgs: {
         "迪士尼在逃公主👸": "./imgs/mmexport1613196764740.jpg",
-        "今天也很 迪丽热巴 wo wo ": "./imgs/img-1613197219310f31680a03dfdb175365cb6b65d40a483.jpg",
+        "今天也很 迪丽热巴 wo w(夸人的最高境界) ": "./imgs/img-1613197219310f31680a03dfdb175365cb6b65d40a483.jpg",
+        "👸还是要长大，可爱不是长久之计",
+        "岁岁年年，万事万般宜",
     },
     desc: {
         turn_on: "click",
