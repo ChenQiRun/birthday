@@ -21,6 +21,6 @@ var config = {
         cake_fadein: "cake？",
         light_candle: "candles？",
         wish_message: "Happy birthday",
-        story: "A MESSAGE FOR YOU",
+        story: " FOR YOU",
     }
 };
