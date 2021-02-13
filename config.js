@@ -28,8 +28,8 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "click",
-        play: "音乐",
-        bannar_coming: "颜色",
+        play: "🎵",
+        bannar_coming: "blingbling",
         balloons_flying: "Anything else?",
         cake_fadein: "cake？",
         light_candle: "candles？",
