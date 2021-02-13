@@ -1,7 +1,6 @@
 // QIRUN 2021.2.13 https://github.com/AJLoveChina/birthday
 var config = {
     texts: [        
-        
         "迪士尼在逃公主👸",
        "02.13",
         "今天是你的生日",
