@@ -9,7 +9,7 @@ var config = {
     ],
     imgs: {
         "迪士尼在逃公主👸": "./imgs/mmexport1613196764740.jpg",
-         "今天也很 迪丽热巴 wo wo ": "./imgs/img-1613197219310f31680a03dfdb175365cb6b65d40a483.jpg",
+        "今天也很 迪丽热巴 wo wo ": "./imgs/img-1613197219310f31680a03dfdb175365cb6b65d40a483.jpg",
     },
     desc: {
         turn_on: "click",
